@@ -1,0 +1,3 @@
+architecture,success_rate
+Dense VQC,0.45
+SMQNN,0.8

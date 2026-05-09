@@ -1,0 +1,20 @@
+{
+  "experiment_date": "2024-01-15",
+  "quantum_processor": {
+    "name": "IBM Marrakesh",
+    "architecture": "Heron",
+    "n_qubits": 156,
+    "characteristics": {
+      "readout_fidelity": 0.95,
+      "cx_error_rate": 0.0145
+    }
+  },
+  "experiments": {
+    "ssh_phase_transition": {
+      "job_ids": [
+        "d7vou63ack5s73bfmjt0",
+        "d7vp965pa59c73b66cjg"
+      ]
+    }
+  }
+}

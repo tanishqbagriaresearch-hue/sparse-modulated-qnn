@@ -1,0 +1,7 @@
+{
+  "simulation_date": "2024-01-10",
+  "simulator_backend": {
+    "name": "Qiskit Aer",
+    "version": "0.13.0"
+  }
+}
